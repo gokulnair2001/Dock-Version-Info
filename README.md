@@ -1,6 +1,6 @@
 <!--   <img src="" width="300" height="550" />  -->
 # v1.0.0
-* This is the first version of Dock. In this version I have went on with adding the most important features. All the important and key features of app are mentioned below, do have a look.
+* This is the first version of Dock. In this version we have went on with adding the most important features. All the important and key features of app are mentioned below, do have a look.
 
 ## 1. Dock View
 * The first screen that appears is called the Dock View, here you can see all your added Docks.
@@ -8,14 +8,14 @@
 
 ### What is Dock ?
 
-* Dock is basically a categorised set of file/document which consists of all your added items. 
-* Every Dock is unique and you can't create Dock of same name since the name of Dock is an unique propert!
-* Various characteristics of Dock are mentioned below:
+* Dock is basically a categorised set of container/box which consists of all your added items. 
+* Every Dock is unique container and no Dock can be of same name since the name of Dock is an unique property!
+* Various characteristics of Docks are mentioned below:
 
 <img src="https://user-images.githubusercontent.com/56252259/118258364-60c8cd80-b4cd-11eb-83d4-03df41b4f717.png" width="300" height="550" align="center"/> 
 
 ## 2. Customising Dock 
-* As soon as the app opens the user can create a new Dock by clicking on the plus button provided on the right corner.
+* As soon as the app opens the user can create a new Dock by clicking on the plus(+) button provided on the top right corner of the screen.
 
 <img src="https://user-images.githubusercontent.com/56252259/118235246-1dad3100-b4b2-11eb-9145-9c8bf6681200.png" width="300" height="550" align="center" /> 
 
@@ -28,11 +28,12 @@
 
 <img src="https://user-images.githubusercontent.com/56252259/118235880-f1de7b00-b4b2-11eb-8d57-34f487d842ae.png" width="300" height="550" align="center" /> 
 
-* The first three are compulsory and the dock state is optional, If you want you can add it later into private state.
+* The first three properties are compulsory and the Dock state is optional, If you want you can add it later into private state.
 * Once you provide all properties then press the add button on top right to get your dock visible on the main screen.
 
 ## 3. Dock Property Customisation
-* So there are times when you need to make a Dock Delete/Privatise/Open it. So dont worry, By doing long press on any dock you will get 3 properties called
+* So there are times when you need to make a Dock Delete/Privatise/Open it. So dont worry, we have a solution for it. By providing long press on any dock you will get 3 properties:
+
 1. Open
 2. Privatise
 3. Delete Dock
@@ -40,13 +41,15 @@
 <img src="https://user-images.githubusercontent.com/56252259/118237526-00c62d00-b4b5-11eb-9461-2a004db99b73.png" width="300" height="550" align="center" />
 
 ## 4. Adding Dock items
-* So once the user clicks on any dock , they will get into Dock item section. Here the user can add items for his dock. For adding any item user need to click on the top right button, which will provide a form to add dock items.
+* So once the user clicks on any dock, they will get into Dock item section. Here the user can add items for his dock. 
+* Getting into open Dock is very easy but its not the same in Private dock, here you need to pass the Biometric Authentication inorder to get into it.
+* For adding any item user need to click on the top right plus(+) button, which will provide a form to add dock items.
 
 
 <img src="https://user-images.githubusercontent.com/56252259/118256544-3bd35b00-b4cb-11eb-82a3-9ff94dd8441a.png" width="300" height="550" align="center" /> 
 
 
-* Once the user clicks it they will get into a Item form where they need to add certain formalities, like title, body, reminder time and etc.
+* Once the user clicks it they will get into a Item-form where they need to fill certain fields, like title, body, reminder time and etc.
 * In order to make users work easy I have provided various Dock tools which will help them to add item body very easily and that to hassle free.
 * The tools are:
 1. OCR Support for image
