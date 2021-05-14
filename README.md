@@ -59,7 +59,10 @@
 
 <img src="https://user-images.githubusercontent.com/56252259/118240220-5ea84400-b4b8-11eb-9131-5fcb67684ea2.png" width="300" height="550" />
 
-* The the user will get
+* The the user will get a pop up of their Dock item history and score 
+
+<img src="https://user-images.githubusercontent.com/56252259/118240822-0cb3ee00-b4b9-11eb-908c-373d15cd7189.png" width="300" height="550" />
+
 
 
 
