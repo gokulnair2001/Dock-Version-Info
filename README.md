@@ -99,7 +99,17 @@
 
 * I would request each and every user to get through the Privacy Policy and Terms & Conditions of Dock. Since you are the user of this app you must know your rights on your data.
 
-<img src="https://user-images.githubusercontent.com/56252259/118243423-112dd600-b4bc-11eb-80fb-b1c16a7f529c.png" height="550" align="center" />
+<img src="https://user-images.githubusercontent.com/56252259/118301828-2416c980-b501-11eb-9861-5784a5c9c73b.png" height="550" align="center" />
+
+## 10. Support
+
+In order to maintain a good user satisfaction I have added a Support feature where the user can mail me on regarding following points:
+1. Feedback
+2. Feature Request 
+3. Bug Fix!
+
+
+<img src="https://user-images.githubusercontent.com/56252259/118302115-76f08100-b501-11eb-8427-480d1cdc3cf0.png" height="550" align="center" />
 
 
 ## Suggestions 
