@@ -4,11 +4,20 @@
 
 ## 1. Dock View
 * The first screen that appears is called the Dock View, here you can see all your added Docks.
-<img src="https://user-images.githubusercontent.com/56252259/118238644-6666e900-b4b6-11eb-926f-ba0050e0ec50.png" width="300" height="550" /> 
+<img src="https://user-images.githubusercontent.com/56252259/118238644-6666e900-b4b6-11eb-926f-ba0050e0ec50.png" width="300" height="550" align="center" /> 
+
+### What is Dock ?
+
+* Dock is basically a categorised set of file/document which consists of all your added items. 
+* Every Dock is unique and you can't create Dock of same name since the name of Dock is an unique propert!
+* Various characteristics of Dock are mentioned below:
+
+<img src="https://user-images.githubusercontent.com/56252259/118258364-60c8cd80-b4cd-11eb-83d4-03df41b4f717.png" width="300" height="550" align="center"/> 
 
 ## 2. Customising Dock 
 * As soon as the app opens the user can create a new Dock by clicking on the plus button provided on the right corner.
-<img src="https://user-images.githubusercontent.com/56252259/118235246-1dad3100-b4b2-11eb-9145-9c8bf6681200.png" width="300" height="550" /> 
+
+<img src="https://user-images.githubusercontent.com/56252259/118235246-1dad3100-b4b2-11eb-9145-9c8bf6681200.png" width="300" height="550" align="center" /> 
 
 * Here you need to provide 4 properties of Dock
 
@@ -32,7 +41,10 @@
 
 ## 4. Adding Dock items
 * So once the user clicks on any dock , they will get into Dock item section. Here the user can add items for his dock. For adding any item user need to click on the top right button, which will provide a form to add dock items.
-<img src="https://user-images.githubusercontent.com/56252259/118238449-27389800-b4b6-11eb-9989-3616b33f80a0.png" width="300" height="550" align="center" /> 
+
+
+<img src="https://user-images.githubusercontent.com/56252259/118256544-3bd35b00-b4cb-11eb-82a3-9ff94dd8441a.png" width="300" height="550" align="center" /> 
+
 
 * Once the user clicks it they will get into a Item form where they need to add certain formalities, like title, body, reminder time and etc.
 * In order to make users work easy I have provided various Dock tools which will help them to add item body very easily and that to hassle free.
