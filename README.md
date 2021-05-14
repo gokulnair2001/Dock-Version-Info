@@ -20,7 +20,7 @@
 <img src="https://user-images.githubusercontent.com/56252259/118235880-f1de7b00-b4b2-11eb-8d57-34f487d842ae.png" width="300" height="550" align="center" /> 
 
 * The first three are compulsory and the dock state is optional, If you want you can add it later into private state.
-* Once you provide all properties then press the add nutton on top right to get your dock visible on the main screen.
+* Once you provide all properties then press the add button on top right to get your dock visible on the main screen.
 
 ## 3. Dock Property Customisation
 * So there are times when you need to make a Dock Delete/Privatise/Open it. So dont worry, By doing long press on any dock you will get 3 properties called
