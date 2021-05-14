@@ -64,9 +64,21 @@
 <img src="https://user-images.githubusercontent.com/56252259/118240822-0cb3ee00-b4b9-11eb-908c-373d15cd7189.png" width="300" height="550" />
 
 
+## 7. Notification Edits
+* Another best part of Dock is you can edit your reminder/notification according to your need, so to edit notification you can get into the settings page where you will get the notifications option.
+
+<img src="https://user-images.githubusercontent.com/56252259/118242945-81882780-b4bb-11eb-86b5-90ccfee0abb4.png" width="300" height="550" />
+
+## 8. Privacy Policy and Term of Use 
+
+* I would request each and every user to get through the Privacy Policy and Terms & Conditions of Dock. Since you are the user of this app you must know your rights on your data.
+
+<img src="https://user-images.githubusercontent.com/56252259/118243423-112dd600-b4bc-11eb-80fb-b1c16a7f529c.png" height="550" />
 
 
+## Suggestions 
 
+* If you find any mistake in this Version info page you can happily contact me at gokulnair.2001@gmail.com or through the Feature Request option available on the settings page :). 
 
 
 
