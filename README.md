@@ -1,5 +1,5 @@
 <!--   <img src="" width="300" height="550" />  -->
-# Version 1.0.0
+# v1.0.0
 * This is the first version of Dock. In this version I have went on with adding the most important features. All the important and key features of app are mentioned below, do have a look.
 
 ## 1. Dock View
