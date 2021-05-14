@@ -41,6 +41,7 @@
 <img src="https://user-images.githubusercontent.com/56252259/118237526-00c62d00-b4b5-11eb-9461-2a004db99b73.png" width="300" height="550" align="center" />
 
 ## 4. Adding Dock items
+
 * So once the user clicks on any dock, they will get into Dock item section. Here the user can add items for his dock. 
 * Getting into open Dock is very easy but its not the same in Private dock, here you need to pass the Biometric Authentication inorder to get into it.
 * For adding any item user need to click on the top right plus(+) button, which will provide a form to add dock items.
@@ -50,49 +51,55 @@
 
 
 * Once the user clicks it they will get into a Item-form where they need to fill certain fields, like title, body, reminder time and etc.
-* In order to make users work easy I have provided various Dock tools which will help them to add item body very easily and that to hassle free.
-* The tools are:
+* In order to make this work easy and hastle free we have provided some exceptional tools that are:
+
 1. OCR Support for image
 2. OCR suport for scanning documents
-3. Voice Recogniton
+3. Voice Recogniton Bot
 
-* User can use any of these feature to add the body of item.
+* **We would like to inform you, this tools would run locally on your device and this won't collect any personal information from you**
+
+* User can use any of these feature to add the body of Dock item.
 
 <img src="https://user-images.githubusercontent.com/56252259/118239310-39670600-b4b7-11eb-8326-0ac05a450960.png" width="300" height="550" align="center" />
 
 ## 5. Dock Support Menu
+
 * User can perform variety of actions on their Dock items, which are:
+ 
 1. Edit Dock
 2. Completed Item
 3. Incomplete Item
 4. Share
-5. Add Reminder
+5. Add Default Reminder
 
 <img src="https://user-images.githubusercontent.com/56252259/118239980-0e30e680-b4b8-11eb-9c8f-0f0cb4fda039.png" width="300" height="550" align="center" />
 
 ## 6. Dock Item History/Score
-* Now the best part is user can keep a track of their Dock items done and sill remaining, according to which the user will be proide a score from the app.
-* To view the Dock History/Score click on the second button from the at the top.
+
+* Now the best part is user can keep a track of their Dock items completed and sill remaining, according to which the user will be provided a score from the app.
+* To view the Dock History/Score click on the second button from the right at the top.
 
 <img src="https://user-images.githubusercontent.com/56252259/118240220-5ea84400-b4b8-11eb-9131-5fcb67684ea2.png" width="300" height="550" align="center" />
 
-* The the user will get a pop up of their Dock item history and score 
+* Then the user will get a pop up of their Dock item history and score 
 
 <img src="https://user-images.githubusercontent.com/56252259/118240822-0cb3ee00-b4b9-11eb-908c-373d15cd7189.png" width="300" height="550" align="center" />
 
 
 ## 7. Notification Edits
+
 * Another best part of Dock is you can edit your reminder/notification according to your need, so to edit notification you can get into the settings page where you will get the notifications option.
 
 <img src="https://user-images.githubusercontent.com/56252259/118242945-81882780-b4bb-11eb-86b5-90ccfee0abb4.png" width="300" height="550" align="center" />
 
-
 ## 8. iCloud Policy
-* Dock supports iCloud sync among your iOS devices, inorder to get you always into the ecosystem. So you dont need to worry if you lost/change your iPhone. I must suggest you to have a look on iCloud usage decription provided in the settings page.
+
+* Dock supports iCloud sync among your iOS devices, inorder to get you always into the ecosystem. So you dont need to worry if you lost/change your device. We would really suggest you to have a look on iCloud usage decription provided in the settings page.
  
 <img src="https://user-images.githubusercontent.com/56252259/118297481-d5b2fc00-b4fb-11eb-8e80-41f139afb90d.png" width="300" height="550" align="center" />
 
-* Using iCloud and its formalities are fully dependent on the user. If the user want at any point of time they can disable iCloud. Inorder to disable it you can visit the setting page of iPhone directly or you can use Dock to get there by clicking here:
+* Using iCloud and its formalities are fully dependent on the user. If the user want at any point of time they can disable iCloud. Inorder to disable it you can visit the settings page of iOS device directly or you can use Dock to get there by clicking here:
 
 
 <img src="https://user-images.githubusercontent.com/56252259/118297691-1f034b80-b4fc-11eb-8223-85eb147da56d.png" width="300" height="550" align="center" />
@@ -100,24 +107,25 @@
 
 ## 9. Privacy Policy and Term of Use 
 
-* I would request each and every user to get through the Privacy Policy and Terms & Conditions of Dock. Since you are the user of this app you must know your rights on your data.
+* We would request each and every user to get through the Privacy Policy and Terms & Conditions of Dock. Since you are the user of this app you must know your rights on your data.
 
 <img src="https://user-images.githubusercontent.com/56252259/118301828-2416c980-b501-11eb-9861-5784a5c9c73b.png" height="550" align="center" />
 
 ## 10. Support
 
-In order to maintain a good user satisfaction I have added a Support feature where the user can mail me on regarding following points:
+In order to maintain a good user satisfaction we have added a Support feature where the user can mail us on regarding following points:
+
 1. Feedback
 2. Feature Request 
 3. Bug Fix!
-
+4. Regarding anything about Dock
 
 <img src="https://user-images.githubusercontent.com/56252259/118302115-76f08100-b501-11eb-8427-480d1cdc3cf0.png" height="550" align="center" />
 
 
 ## Suggestions 
 
-* If you find any mistake in this Version info page you can happily contact me at gokulnair.2001@gmail.com or through the Feature Request option available on the settings page :). 
+* If you find any mistake in this Version-info page you can happily contact us at gokulnair.2001@gmail.com or through the Feature Request option available on the settings page :). 
 
 
 
