@@ -41,6 +41,7 @@
 3. Voice Recogniton
 
 * User can use any of these feature to add the body of item.
+
 <img src="https://user-images.githubusercontent.com/56252259/118239310-39670600-b4b7-11eb-8326-0ac05a450960.png" width="300" height="550" />
 
 ## 5. Dock Support Menu
