@@ -1,6 +1,7 @@
 <!--   <img src="" width="300" height="550" />  -->
 # Version 1.0.0
-* This is the first version of Dock. In this version I have went on with adding the most important features, that are:
+* This is the first version of Dock. In this version I have went on with adding the most important features. All the important and key features of app are mentioned below, do have a look.
+
 ## 1. Dock View
 * The first screen that appears is called the Dock View, here you can see all your added Docks.
 <img src="https://user-images.githubusercontent.com/56252259/118238644-6666e900-b4b6-11eb-926f-ba0050e0ec50.png" width="300" height="550" /> 
