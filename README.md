@@ -83,7 +83,19 @@
 
 <img src="https://user-images.githubusercontent.com/56252259/118242945-81882780-b4bb-11eb-86b5-90ccfee0abb4.png" width="300" height="550" align="center" />
 
-## 8. Privacy Policy and Term of Use 
+
+## 8. iCloud Policy
+* Dock supports iCloud sync among your iOS devices, inorder to get you always into the ecosystem. So you dont need to worry if you lost/change your iPhone. I must suggest you to have a look on iCloud usage decription provided in the settings page.
+ 
+<img src="https://user-images.githubusercontent.com/56252259/118297481-d5b2fc00-b4fb-11eb-8e80-41f139afb90d.png" width="300" height="550" align="center" />
+
+* Using iCloud and its formalities are fully dependent on the user. If the user want at any point of time they can disable iCloud. Inorder to disable it you can visit the setting page of iPhone directly or you can use Dock to get there by clicking here:
+
+
+<img src="https://user-images.githubusercontent.com/56252259/118297691-1f034b80-b4fc-11eb-8223-85eb147da56d.png" width="300" height="550" align="center" />
+
+
+## 9. Privacy Policy and Term of Use 
 
 * I would request each and every user to get through the Privacy Policy and Terms & Conditions of Dock. Since you are the user of this app you must know your rights on your data.
 
