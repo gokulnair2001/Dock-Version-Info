@@ -4,6 +4,7 @@
 
 ## 1. Dock View
 * The first screen that appears is called the Dock View, here you can see all your added Docks.
+
 <img src="https://user-images.githubusercontent.com/56252259/118238644-6666e900-b4b6-11eb-926f-ba0050e0ec50.png" width="300" height="550" align="center" /> 
 
 ### What is Dock ?
@@ -12,7 +13,7 @@
 * Every Dock is unique container and no Dock can be of same name since the name of Dock is an unique property!
 * Various characteristics of Docks are mentioned below:
 
-<img src="https://user-images.githubusercontent.com/56252259/118258364-60c8cd80-b4cd-11eb-83d4-03df41b4f717.png" width="300" height="550" align="center"/> 
+<img src="https://user-images.githubusercontent.com/56252259/118258364-60c8cd80-b4cd-11eb-83d4-03df41b4f717.png" width="300" height="550" align="center" /> 
 
 ## 2. Customising Dock 
 * As soon as the app opens the user can create a new Dock by clicking on the plus(+) button provided on the top right corner of the screen.
