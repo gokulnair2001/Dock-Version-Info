@@ -1,6 +1,6 @@
 <!--   <img src="" width="300" height="550" />  -->
 # v1.0.0
-* This is the first version of Dock. In this version we have went on with adding the most important features. All the important and key features of app are mentioned below, do have a look.
+* This is the first version of Dock. In this version we have went on with adding the most important features. All the important and key features of app are mentioned below, do have a look on all the bellow mentioned features.
 
 ## 1. Dock View
 * The first screen that appears is called the Dock View, here you can see all your added Docks.
