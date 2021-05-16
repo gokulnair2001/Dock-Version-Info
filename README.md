@@ -101,16 +101,16 @@
 
 * Using iCloud and its formalities are fully dependent on the user. If the user want at any point of time they can disable iCloud. Inorder to disable it you can visit the settings page of iOS device directly or you can use Dock to get there by clicking here:
 
-
+<!--
 <img src="https://user-images.githubusercontent.com/56252259/118398384-f99a4d00-b675-11eb-9686-02808f269390.png" width="300" height="550" align="center" />
-
+-->
 
 ## 9. Privacy Policy and Term of Use 
 
-* We would request each and every user to get through the Privacy Policy and Terms & Conditions of Dock. Since you are the user of this app you must know your rights on your data.
-
+* We would request each and every user to get through the Privacy Policy and Terms & Conditions of Dock provided in the settings page. Being a user of this app you must know your rights on your data.
+<!--
 <img src="https://user-images.githubusercontent.com/56252259/118398422-2babaf00-b676-11eb-9638-d4441b4eab24.png" height="550" align="center" />
-
+-->
 ## 10. Support
 
 In order to maintain a good user satisfaction we have added a Support feature where the user can mail us on regarding following points:
