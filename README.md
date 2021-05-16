@@ -99,7 +99,7 @@
  
 <img src="https://user-images.githubusercontent.com/56252259/118398405-13d42b00-b676-11eb-8bf2-e6ce304a39dd.png" width="300" height="550" align="center" />
 
-* Using iCloud and its formalities are fully dependent on the user. If the user want at any point of time they can disable iCloud. Inorder to disable it you can visit the settings page of iOS device directly or you can use Dock to get there by clicking here:
+* Using iCloud and its formalities are fully dependent on the user. If the user want ,at any point of time they can disable iCloud. Inorder to disable it you can visit the settings page of iOS device directly or you can use Dock to get there by getting into the iCloud section provided in Dock.
 
 <!--
 <img src="https://user-images.githubusercontent.com/56252259/118398384-f99a4d00-b675-11eb-9686-02808f269390.png" width="300" height="550" align="center" />
