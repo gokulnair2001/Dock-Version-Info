@@ -108,9 +108,9 @@
 ## 9. Privacy Policy and Term of Use 
 
 * We would request each and every user to get through the Privacy Policy and Terms & Conditions of Dock provided in the settings page. Being a user of this app you must know your rights on your data.
-<!--
-<img src="https://user-images.githubusercontent.com/56252259/118398422-2babaf00-b676-11eb-9638-d4441b4eab24.png" height="550" align="center" />
--->
+
+<img src="https://user-images.githubusercontent.com/56252259/118401630-0a51bf80-b684-11eb-9c32-8c5d0eb0c76f.png" width="300" height="550" align="center" />
+
 ## 10. Support
 
 In order to maintain a good user satisfaction we have added a Support feature where the user can mail us on regarding following points:
