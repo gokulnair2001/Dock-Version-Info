@@ -91,25 +91,25 @@
 
 * Another best part of Dock is you can edit your reminder/notification according to your need, so to edit notification you can get into the settings page where you will get the notifications option.
 
-<img src="https://user-images.githubusercontent.com/56252259/118242945-81882780-b4bb-11eb-86b5-90ccfee0abb4.png" width="300" height="550" align="center" />
+<img src="https://user-images.githubusercontent.com/56252259/118398365-da9bbb00-b675-11eb-8c42-56cd346d420b.png" width="300" height="550" align="center" />
 
 ## 8. iCloud Policy
 
 * Dock supports iCloud sync among your iOS devices, inorder to get you always into the ecosystem. So you dont need to worry if you lost/change your device. We would really suggest you to have a look on iCloud usage decription provided in the settings page.
  
-<img src="https://user-images.githubusercontent.com/56252259/118297481-d5b2fc00-b4fb-11eb-8e80-41f139afb90d.png" width="300" height="550" align="center" />
+<img src="https://user-images.githubusercontent.com/56252259/118398405-13d42b00-b676-11eb-8bf2-e6ce304a39dd.png" width="300" height="550" align="center" />
 
 * Using iCloud and its formalities are fully dependent on the user. If the user want at any point of time they can disable iCloud. Inorder to disable it you can visit the settings page of iOS device directly or you can use Dock to get there by clicking here:
 
 
-<img src="https://user-images.githubusercontent.com/56252259/118297691-1f034b80-b4fc-11eb-8223-85eb147da56d.png" width="300" height="550" align="center" />
+<img src="https://user-images.githubusercontent.com/56252259/118398384-f99a4d00-b675-11eb-9686-02808f269390.png" width="300" height="550" align="center" />
 
 
 ## 9. Privacy Policy and Term of Use 
 
 * We would request each and every user to get through the Privacy Policy and Terms & Conditions of Dock. Since you are the user of this app you must know your rights on your data.
 
-<img src="https://user-images.githubusercontent.com/56252259/118301828-2416c980-b501-11eb-9861-5784a5c9c73b.png" height="550" align="center" />
+<img src="https://user-images.githubusercontent.com/56252259/118398422-2babaf00-b676-11eb-9638-d4441b4eab24.png" height="550" align="center" />
 
 ## 10. Support
 
@@ -120,7 +120,7 @@ In order to maintain a good user satisfaction we have added a Support feature wh
 3. Bug Fix!
 4. Regarding anything about Dock
 
-<img src="https://user-images.githubusercontent.com/56252259/118302115-76f08100-b501-11eb-8427-480d1cdc3cf0.png" height="550" align="center" />
+<img src="https://user-images.githubusercontent.com/56252259/118398433-3bc38e80-b676-11eb-8b64-ef943740b4ed.png" height="550" align="center" />
 
 
 ## Suggestions 
