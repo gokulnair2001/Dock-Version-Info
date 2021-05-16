@@ -90,9 +90,9 @@
 ## 7. Notification Edits
 
 * Another best part of Dock is you can edit your reminder/notification according to your need, so to edit notification you can get into the settings page where you will get the notifications option.
-<!--
+
 <img src="https://user-images.githubusercontent.com/56252259/118398365-da9bbb00-b675-11eb-8c42-56cd346d420b.png" width="300" height="550" align="center" />
--->
+
 ## 8. iCloud Policy
 
 * Dock supports iCloud sync among your iOS devices, inorder to get you always into the ecosystem. So you dont need to worry if you lost/change your device. We would really suggest you to have a look on iCloud usage decription provided in the settings page.
