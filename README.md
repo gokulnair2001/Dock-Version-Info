@@ -76,7 +76,14 @@
 
 <img src="https://user-images.githubusercontent.com/56252259/118239980-0e30e680-b4b8-11eb-9c8f-0f0cb4fda039.png" width="300" height="550" align="center" />
 
-## 6. Dock Item History/Score
+## 6. File History
+
+* There are times when you need to know the history of a Dock, so we have made it available for you at a hidden place. Click on the top bar of Dock-Item page to get the history of the Dock:
+
+
+
+
+## 7. Dock Item History/Score
 
 * Now the best part is user can keep a track of their Dock items completed and sill remaining, according to which the user will be provided a score from the app.
 * To view the Dock History/Score click on the second button from the right at the top.
@@ -88,13 +95,13 @@
 <img src="https://user-images.githubusercontent.com/56252259/118240822-0cb3ee00-b4b9-11eb-908c-373d15cd7189.png" width="300" height="550" align="center" />
 
 
-## 7. Notification Edits
+## 8. Notification Edits
 
 * Another best part of Dock is you can edit your reminder/notification according to your need, so to edit notification you can get into the settings page where you will get the notifications option.
 
 <img src="https://user-images.githubusercontent.com/56252259/118398365-da9bbb00-b675-11eb-8c42-56cd346d420b.png" width="300" height="550" align="center" />
 
-## 8. iCloud Policy
+## 9. iCloud Policy
 
 * Dock supports iCloud sync among your iOS devices, inorder to get you always into the ecosystem. So you dont need to worry if you lost/change your device. We would really suggest you to have a look on iCloud usage decription provided in the settings page.
  
@@ -108,13 +115,13 @@
 <img src="https://user-images.githubusercontent.com/56252259/118398384-f99a4d00-b675-11eb-9686-02808f269390.png" width="300" height="550" align="center" />
 
 
-## 9. Privacy Policy and Term of Use 
+## 10. Privacy Policy and Term of Use 
 
 * We would request each and every user to get through the Privacy Policy and Terms & Conditions of Dock provided in the settings page. Being a user of this app you must know your rights on your data.
 
 <img src="https://user-images.githubusercontent.com/56252259/118401630-0a51bf80-b684-11eb-9c32-8c5d0eb0c76f.png" width="300" height="550" align="center" />
 
-## 10. Support
+## 11. Support
 
 In order to maintain a good user satisfaction we have added a Support feature where the user can mail us on regarding following points:
 
