@@ -76,11 +76,11 @@
 
 <img src="https://user-images.githubusercontent.com/56252259/118239980-0e30e680-b4b8-11eb-9c8f-0f0cb4fda039.png" width="300" height="550" align="center" />
 
-## 6. File History
+## 6. Dock History
 
 * There are times when you need to know the history of a Dock, so we have made it available for you at a hidden place. Click on the top bar of Dock-Item page to get the history of the Dock:
 
-
+<img src="https://user-images.githubusercontent.com/56252259/118474174-666e1f80-b728-11eb-81f7-ad819acbba52.png" width="300" height="550" align="center" />
 
 
 ## 7. Dock Item History/Score
