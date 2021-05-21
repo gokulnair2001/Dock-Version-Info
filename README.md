@@ -101,7 +101,15 @@
 
 <img src="https://user-images.githubusercontent.com/56252259/118398365-da9bbb00-b675-11eb-8c42-56cd346d420b.png" width="300" height="550" align="center" />
 
-## 9. iCloud Policy
+## 9. Dock Item Editor
+
+* While working with notes there are times when you get bored of same font color, so we thought of making ii user dependent. So in Dock the user can decide which color do he wants for his Dock Item Editor title zone.
+
+* Get to the settings, select Item Editor and pick your favourite color among the given choices!
+
+<img src="https://user-images.githubusercontent.com/56252259/119133362-6e47ff80-ba59-11eb-9045-e7f6357b2cfd.png" width="300" height="550" align="center" />
+
+## 10. iCloud Policy
 
 * Dock supports iCloud sync among your iOS devices, inorder to get you always into the ecosystem. So you dont need to worry if you lost/change your device. We would really suggest you to have a look on iCloud usage decription provided in the settings page.
  
@@ -115,13 +123,13 @@
 <img src="https://user-images.githubusercontent.com/56252259/118398384-f99a4d00-b675-11eb-9686-02808f269390.png" width="300" height="550" align="center" />
 
 
-## 10. Privacy Policy and Term of Use 
+## 11. Privacy Policy and Term of Use 
 
 * We would request each and every user to get through the Privacy Policy and Terms & Conditions of Dock provided in the settings page. Being a user of this app you must know your rights on your data.
 
 <img src="https://user-images.githubusercontent.com/56252259/118401630-0a51bf80-b684-11eb-9c32-8c5d0eb0c76f.png" width="300" height="550" align="center" />
 
-## 11. Support
+## 12. Support
 
 In order to maintain a good user satisfaction we have added a Support feature where the user can mail us on regarding following points:
 
