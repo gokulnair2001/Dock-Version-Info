@@ -103,9 +103,9 @@
 
 ## 9. Dock Item Editor
 
-* While working with notes there are times when you get bored of same font color, so we thought of making ii user dependent. So in Dock the user can decide which color do he wants for his Dock Item Editor title zone.
+* While working with notes there are times when you get bored of same font color, so we thought of making it user dependent. 
 
-* Get to the settings, select Item Editor and pick your favourite color among the given choices!
+* Get to the settings screen, select Item Editor and pick your favourite color among the given choices!
 
 <img src="https://user-images.githubusercontent.com/56252259/119133362-6e47ff80-ba59-11eb-9045-e7f6357b2cfd.png" width="300" height="550" align="center" />
 
