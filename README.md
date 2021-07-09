@@ -6,7 +6,7 @@
 ## 1. Dock View
 * The first screen that appears is called the Dock View, here you can see all your added Docks.
 
-<img src="https://user-images.githubusercontent.com/56252259/118238644-6666e900-b4b6-11eb-926f-ba0050e0ec50.png" width="300" height="550" align="center" /> 
+<img src="https://user-images.githubusercontent.com/56252259/125041742-b927e000-e0b6-11eb-81b4-958bd55ad46f.png" width="300" height="550" align="center" /> 
 
 ### What is Dock ?
 
