@@ -124,50 +124,49 @@ III. Import
 
 <img src="https://user-images.githubusercontent.com/56252259/125037729-1f5e3400-e0b2-11eb-812e-bb2115602126.png" width="300" height="550" align="center" />
 
-## 8. Notification Edits
+## 8. Dock Calibration
 
-* Another best part of Dock is you can edit your reminder/notification according to your need, so to edit notification you can get into the settings page where you will get the notifications option.
+* Now calibrating your Docks are made easy.
+* Get into the Settings view, select "Calbrate Dock" and then select your favorite calibration.
+ 
+<img src="https://user-images.githubusercontent.com/56252259/125038914-921bdf00-e0b3-11eb-907d-feff4a7d4429.png" width="300" height="550" align="center" />
 
-<img src="https://user-images.githubusercontent.com/56252259/118398365-da9bbb00-b675-11eb-8c42-56cd346d420b.png" width="300" height="550" align="center" />
-
-## 9. Dock Item Editor
-
-* While working with notes there are times when you get bored of same font color, so we thought of making it user dependent. 
-
-* Get to the settings screen, select Item Editor and pick your favourite color among the given choices!
-
-<img src="https://user-images.githubusercontent.com/56252259/119133362-6e47ff80-ba59-11eb-9045-e7f6357b2cfd.png" width="300" height="550" align="center" />
+## 9. Restore Defaults
+* There are times when you want to reset all settings, don't worry we have got your back.
+* Go to Settings view, select Restore option and you will be able to restore all the default settings(Do read the instruction before restoring the settings).
+ 
+<img src="https://user-images.githubusercontent.com/56252259/125039214-deffb580-e0b3-11eb-9b66-15149b37b8c5.png" width="300" height="550" align="center" />
 
 ## 10. iCloud Policy
 
-* Dock supports iCloud sync among your iOS devices, inorder to get you always into the ecosystem. So you dont need to worry if you lost/change your device. We would really suggest you to have a look on iCloud usage decription provided in the settings page.
- 
+* Dock supports iCloud sync among your iOS devices, inorder to get you always into the ecosystem. So you dont need to worry if you lost/change your device. 
+* Now you can force sync your iCloud Data using the iCloud Sync button available in the settings view.
+* We would really suggest you to have a look on iCloud usage decription provided in the settings page.
 
-<img src="https://user-images.githubusercontent.com/56252259/118398405-13d42b00-b676-11eb-8bf2-e6ce304a39dd.png" width="300" height="550" align="center" />
+<img src="https://user-images.githubusercontent.com/56252259/125039720-6d743700-e0b4-11eb-8b59-5571ea75491b.png" width="300" height="550" align="center" />
 
-
-* Using iCloud and its formalities are fully dependent on the user. If the user want ,at any point of time they can disable iCloud. Inorder to disable it you can visit the settings page of iOS device directly or you can use Dock to get there by getting into the iCloud section provided in Dock.
-
+* Using iCloud and its formalities are fully dependent on the user. If the user want ,at any point of time they can disable iCloud. Inorder to disable it you can visit the settings page of iOS device directly.
 
 <img src="https://user-images.githubusercontent.com/56252259/118398384-f99a4d00-b675-11eb-9686-02808f269390.png" width="300" height="550" align="center" />
 
 
 ## 11. Privacy Policy and Term of Use 
 
-* We would request each and every user to get through the Privacy Policy and Terms & Conditions of Dock provided in the settings page. Being a user of this app you must know your rights on your data.
+* We would request each and every user to get through the Privacy Policy and Terms & Conditions of Dock provided in the settings page. 
+* Being a user of this app you must know your rights on your data.
 
-<img src="https://user-images.githubusercontent.com/56252259/118401630-0a51bf80-b684-11eb-9c32-8c5d0eb0c76f.png" width="300" height="550" align="center" />
+<img src="https://user-images.githubusercontent.com/56252259/125039874-9ac0e500-e0b4-11eb-83ea-8a54d7cfd578.png" width="300" height="550" align="center" />
 
 ## 12. Support
 
 In order to maintain a good user satisfaction we have added a Support feature where the user can mail us on regarding following points:
 
-1. Feedback
+1. Feedback(On AppStore)
 2. Feature Request 
 3. Bug Fix!
 4. Regarding anything about Dock
 
-<img src="https://user-images.githubusercontent.com/56252259/118398433-3bc38e80-b676-11eb-8b64-ef943740b4ed.png" width="300" height="550" align="center" />
+<img src="https://user-images.githubusercontent.com/56252259/125040425-45390800-e0b5-11eb-9d8c-27c8a4390597.png" width="300" height="550" align="center" />
 
 
 ## Suggestions 
