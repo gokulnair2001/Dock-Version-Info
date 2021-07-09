@@ -19,7 +19,7 @@
 ## 2. Customising Dock 
 * As soon as the app opens the user can create a new Dock by clicking on the plus(+) button provided on the top right corner of the screen.
 
-<img src="https://user-images.githubusercontent.com/56252259/118235246-1dad3100-b4b2-11eb-9145-9c8bf6681200.png" width="300" height="550" align="center" /> 
+<img src="https://user-images.githubusercontent.com/56252259/125041455-677f5580-e0b6-11eb-97fa-e13b8dd033ce.png" width="300" height="550" align="center" /> 
 
 * Here you need to provide 4 properties of Dock
 
@@ -28,7 +28,7 @@
 3. Dock Color
 4. Dock State (Private/Open)
 
-<img src="https://user-images.githubusercontent.com/56252259/118235880-f1de7b00-b4b2-11eb-8d57-34f487d842ae.png" width="300" height="550" align="center" /> 
+<img src="https://user-images.githubusercontent.com/56252259/125041489-70702700-e0b6-11eb-8372-e03058bd8c95.png" width="300" height="550" align="center" /> 
 
 * The first three properties are compulsory and the Dock state is optional, If you want you can add it later into private state.
 * Once you provide all properties then press the add button on top right to get your dock visible on the main screen.
@@ -147,7 +147,7 @@ III. Import
 
 * Using iCloud and its formalities are fully dependent on the user. If the user want ,at any point of time they can disable iCloud. Inorder to disable it you can visit the settings page of iOS device directly.
 
-<img src="https://user-images.githubusercontent.com/56252259/118398384-f99a4d00-b675-11eb-9686-02808f269390.png" width="300" height="550" align="center" />
+<img src="https://user-images.githubusercontent.com/56252259/125041568-87167e00-e0b6-11eb-9126-d3d55762bd74.png" width="300" height="550" align="center" />
 
 
 ## 11. Privacy Policy and Term of Use 
