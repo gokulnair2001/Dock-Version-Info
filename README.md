@@ -28,7 +28,7 @@
 3. Dock Color
 4. Dock State (Private/Open)
 
-<img src="https://user-images.githubusercontent.com/56252259/125041489-70702700-e0b6-11eb-8372-e03058bd8c95.png" width="300" height="550" align="center" /> 
+<img src="https://user-images.githubusercontent.com/56252259/125042105-1b80e080-e0b7-11eb-83e0-9a24cf94c73a.png" width="300" height="550" align="center" /> 
 
 * The first three properties are compulsory and the Dock state is optional, If you want you can add it later into private state.
 * Once you provide all properties then press the add button on top right to get your dock visible on the main screen.
