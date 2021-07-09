@@ -49,52 +49,80 @@
 * For adding any item user need to click on the top right plus(+) button, which will provide a form to add dock items.
 
 
-<img src="https://user-images.githubusercontent.com/56252259/118256544-3bd35b00-b4cb-11eb-82a3-9ff94dd8441a.png" width="300" height="550" align="center" /> 
+<img src="https://user-images.githubusercontent.com/56252259/125033643-364e5780-e0ad-11eb-87e6-c15fa5b3128d.png" width="300" height="550" align="center" /> 
 
 
 * Once the user clicks it they will get into a Item-form where they need to fill certain fields, like title, body, reminder time and etc.
+* The form consists of 4 differnt buttons at the bottom:
+
+<img src="https://user-images.githubusercontent.com/56252259/125036118-474c9800-e0b0-11eb-9aa0-fa610178288f.png" width="300" height="550" align="center" />
+
+I. Smart Reminder
+*  Smart reminder is an interactive way to add reminders to your dock items. Select you time and click on the save button to add the reminder. 
+*  Along with custom selection of time we have provided some shortcuts to add alert at specific time(1hr, 2hrs, 5hrs).
+  
+<img src="https://user-images.githubusercontent.com/56252259/125034891-c8a32b00-e0ae-11eb-807a-bcd63763bb1f.png" width="300" height="550" align="center" />
+
+II. Bullets
+* Bullet button helps to add bullets in your Dock Item Body. We have provided variety of Bullets types which can be accesed from the Dock Item Settings view.
+
+III. Dock Tools
 * In order to make this work easy and hastle free we have provided some exceptional tools that are:
 
-1. OCR Support for image
-2. OCR suport for scanning documents
-3. Voice Recogniton Bot
+a. OCR Support for image
+b. OCR suport for scanning documents
+c. Voice Recogniton Bot
 
 * **We would like to inform you, this tools would run locally on your device and this won't collect any personal information from you**
 
-* User can use any of these feature to add the body of Dock item.
+<img src="https://user-images.githubusercontent.com/56252259/125034013-b5dc2680-e0ad-11eb-9599-76fb66bf6b98.png" width="300" height="550" align="center" />
 
-<img src="https://user-images.githubusercontent.com/56252259/118239310-39670600-b4b7-11eb-8326-0ac05a450960.png" width="300" height="550" align="center" />
+IV. Dock Item Settings
+* Item Settings is place where you can customise your Dock Item view with variety of options available.
+
+<img src="https://user-images.githubusercontent.com/56252259/125035627-ad84eb00-e0af-11eb-80e8-b8c50095bf15.png" width="300" height="550" align="center" />
 
 ## 5. Dock Support Menu
 
 * User can perform variety of actions on their Dock items, which are:
  
-1. Edit Dock
-2. Completed Item
-3. Incomplete Item
-4. Share
-5. Add Default Reminder
+I. Completed Item
+II. Incomplete Item
+III. Share
+IV. Add Default Reminder
 
-<img src="https://user-images.githubusercontent.com/56252259/118239980-0e30e680-b4b8-11eb-9c8f-0f0cb4fda039.png" width="300" height="550" align="center" />
+<img src="https://user-images.githubusercontent.com/56252259/125035710-c5f50580-e0af-11eb-82b9-7a4091b74e35.png" width="300" height="550" align="center" />
 
 ## 6. Dock History
 
 * There are times when you need to know the history of a Dock, so we have made it available for you at a hidden place. Click on the top bar of Dock-Item page to get the history of the Dock:
 
-<img src="https://user-images.githubusercontent.com/56252259/118474174-666e1f80-b728-11eb-81f7-ad819acbba52.png" width="300" height="550" align="center" />
+<img src="https://user-images.githubusercontent.com/56252259/125035793-de652000-e0af-11eb-8be7-2bcb25add1d2.png" width="300" height="550" align="center" />
 
+## 7. Dock Utilities
+* On the right bottom of Dock Item view you wil get an button for Dock Utilities. Using which you can boost the utility of Dock.
+* On clicking the Utility button you would get 3 options
 
-## 7. Dock Item History/Score
+<img src="https://user-images.githubusercontent.com/56252259/125036752-fa1cf600-e0b0-11eb-983a-b4e092d80309.png" width="300" height="550" align="center" />
 
-* Now the best part is user can keep a track of their Dock items completed and sill remaining, according to which the user will be provided a score from the app.
-* To view the Dock History/Score click on the second button from the right at the top.
+I. Score
+* In order t boost your productivity we have provided a unique feature called Dock Score.
+* The Dock Score provides you score according to the items you have completed and still remaining to complete.
+* Not only this, now the user can get a list of when his data was last edited in the Dock Score view.
 
-<img src="https://user-images.githubusercontent.com/56252259/118240220-5ea84400-b4b8-11eb-9131-5fcb67684ea2.png" width="300" height="550" align="center" />
+<img src="https://user-images.githubusercontent.com/56252259/125037256-862f1d80-e0b1-11eb-98de-e1d4df27fa06.png" width="300" height="550" align="center" />
 
-* Then the user will get a pop up of their Dock item history and score 
+II. Export
+* We thought to make Dock sharing more professional buy providing a feature called Atelier.
+* Atelier is a place where you can share your Dock with other in form of pdf that too with variety of customisations.
 
-<img src="https://user-images.githubusercontent.com/56252259/118240822-0cb3ee00-b4b9-11eb-908c-373d15cd7189.png" width="300" height="550" align="center" />
+<img src="https://user-images.githubusercontent.com/56252259/125037446-c7bfc880-e0b1-11eb-955f-22cd9588901a.png" width="300" height="550" align="center" />
 
+III. Import
+* We saw it was not easy for users to shift their pre-written notes to Dock!. So we are introducing "Docker", a smart way to import your prewritten notes to Dock!.
+* It adapts your note and provides an autogenerated title to it. Now adding Dock Items made more easier.
+
+<img src="https://user-images.githubusercontent.com/56252259/125037729-1f5e3400-e0b2-11eb-812e-bb2115602126.png" width="300" height="550" align="center" />
 
 ## 8. Notification Edits
 
